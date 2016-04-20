@@ -32,6 +32,8 @@ bin/
 
 gen/
 
+.idea/
+
  
 
 # Gradle files 
